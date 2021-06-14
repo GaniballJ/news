@@ -1,7 +1,7 @@
 {
   "news": [
     {
-      "title": "King Andy1",
+      "title": "King Andy",
       "releaseDate": "6/3/2021",
       "genre": "comedy",
       "trailerUrl": "https://www.youtube.com/watch?v=lFzVJEksoDY",
@@ -10,14 +10,6 @@
     },
     {
       "title": "King Shark",
-      "releaseDate": "6/4/2021",
-      "genre": "horror",
-      "trailerUrl": "https://www.youtube.com/watch?v=IeIOisDBqC0",
-      "poster": "https://www.denofgeek.com/wp-content/uploads/2021/05/King-Shark-in-The-Suicide-Squad.png?fit=1400%2C783",
-      "sendDate": "11.06.2021 at 2:44"
-    },
-        {
-      "title": "King Dima",
       "releaseDate": "6/4/2021",
       "genre": "horror",
       "trailerUrl": "https://www.youtube.com/watch?v=IeIOisDBqC0",
