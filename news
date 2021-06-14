@@ -1,29 +1,5 @@
 {
   "news": [
-  {
-      "title": "The Forever Purge",
-      "releaseDate": "01/7/2021",
-      "genre": "Action,horror",
-      "trailerUrl": "https://www.youtube.com/watch?v=xOrXpK-rUaI",
-      "poster":"https://m.media-amazon.com/images/M/MV5BN2MwZWU4MGEtMGNiNi00MDE3LWFjN2MtYmNiMzhkMjY4Njc2XkEyXkFqcGdeQXVyMTMxMzIzMDI0._V1_.jpg",
-      "sendDate": "14/06/2021 at 6:22"
-    },
-    {
-      "title": "The Forever Purge",
-      "releaseDate": "01/7/2021",
-      "genre": "Action,horror",
-      "trailerUrl": "https://www.youtube.com/watch?v=xOrXpK-rUaI",
-      "poster":"https://m.media-amazon.com/images/M/MV5BN2MwZWU4MGEtMGNiNi00MDE3LWFjN2MtYmNiMzhkMjY4Njc2XkEyXkFqcGdeQXVyMTMxMzIzMDI0._V1_.jpg",
-      "sendDate": "14/06/2021 at 6:22"
-    },
-    {
-      "title": "The Forever Purge",
-      "releaseDate": "01/7/2021",
-      "genre": "Action,horror",
-      "trailerUrl": "https://www.youtube.com/watch?v=xOrXpK-rUaI",
-      "poster":"https://m.media-amazon.com/images/M/MV5BN2MwZWU4MGEtMGNiNi00MDE3LWFjN2MtYmNiMzhkMjY4Njc2XkEyXkFqcGdeQXVyMTMxMzIzMDI0._V1_.jpg",
-      "sendDate": "14/06/2021 at 6:22"
-    },
     {
       "title": "The Forever Purge",
       "releaseDate": "01/7/2021",
