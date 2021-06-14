@@ -1,20 +1,28 @@
 {
   "news": [
     {
-      "title": "King Andy",
-      "releaseDate": "6/3/2021",
-      "genre": "comedy",
-      "trailerUrl": "https://www.youtube.com/watch?v=lFzVJEksoDY",
-      "poster": "https://cdn.vox-cdn.com/thumbor/67XmGGQuEC9kdKuvognn-msN-MM=/0x0:1777x999/1200x800/filters:focal(747x358:1031x642)/cdn.vox-cdn.com/uploads/chorus_image/image/54417905/lion_king.0.jpg",
-      "sendDate": "11.06.2021 at 3:00"
+      "title": "THE FOREVER PURGE",
+      "releaseDate": "01/7/2021",
+      "genre": "Action,horror",
+      "trailerUrl": "https://www.youtube.com/watch?v=xOrXpK-rUaI",
+      "poster":"https://upload.wikimedia.org/wikipedia/en/e/e2/Forever_Purge_poster.jpg",
+      "sendDate": "14/06/2021 at 6:22"
+    },
+      {
+      "title": "Luca",
+      "releaseDate": "24/6/2021",
+      "genre": "Animation,adventure,comedy",
+      "trailerUrl": "https://www.youtube.com/watch?v=0hgHY9k-44U",
+      "poster":"https://i0.wp.com/itc.ua/wp-content/uploads/2021/04/luca.jpg?fit=1200%2C1500&quality=100&strip=all&ssl=1",
+      "sendDate": "14/06/2021 at 6:16"
     },
     {
-      "title": "King Shark",
-      "releaseDate": "6/4/2021",
-      "genre": "horror",
-      "trailerUrl": "https://www.youtube.com/watch?v=IeIOisDBqC0",
-      "poster": "https://www.denofgeek.com/wp-content/uploads/2021/05/King-Shark-in-The-Suicide-Squad.png?fit=1400%2C783",
-      "sendDate": "11.06.2021 at 2:44"
+      "title": "Trese",
+      "releaseDate": "11/6/2021",
+      "genre": "Anime,action",
+      "trailerUrl": "https://www.youtube.com/watch?v=3IhCjxVjM-A",
+      "poster": "https://live.staticflickr.com/65535/51224468318_fc34a7b0c8_c.jpg",
+      "sendDate": "5/6/2021 at 12:00"
     }
   ]
 }
