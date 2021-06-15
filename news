@@ -1,12 +1,48 @@
 {
   "news": [
     {
+      "title": "Rick and Morty season 5",
+      "releaseDate": "20/6/2021",
+      "genre": "Animated sitcom, black comedy",
+      "trailerUrl": "https://www.youtube.com/watch?v=_JqTvuVoI1A",
+      "poster":"https://www.gbposters.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/r/i/rick-and-morty-wars-maxi-poster-1.133.jpg",
+      "country":"United States",
+      "director": "Justin Roiland"
+    },
+  {
+      "title": "Sweet Tooth",
+      "releaseDate": "16/6/2021",
+      "genre": "Adventure, drama",
+      "trailerUrl": "https://www.youtube.com/watch?v=9zG9RuJb3QU",
+      "poster":"https://plaqat.ru/images/19137.jpg",
+      "country":"United States",
+      "director": "Jim Mickle"
+    },
+  {
+      "title": "Black Widow",
+      "releaseDate": "08/7/2021",
+      "genre": "Action,triler,fantasy",
+      "trailerUrl": "https://www.youtube.com/watch?v=Fp9pNPdNwjI",
+      "poster":"https://i.pinimg.com/originals/5c/a9/2b/5ca92bf029a4bf2c08767384a0319543.png",
+      "country":"United States",
+      "director": "Cate Shortland"
+    },
+     {
+      "title": "Loki",
+      "releaseDate": "04/6/2021",
+      "genre": "Action,fantasy,comics",
+      "trailerUrl": "https://www.youtube.com/watch?v=nW948Va-l10",
+      "poster":"https://gamemag.ru/images/imagemanager/cache/8d/065b/8d065b_EwxWmwXUUAUKkXK.jpg",
+      "country":"United States",
+      "director": "Michael Waldron"
+    },
+    {
       "title": "The Forever Purge",
       "releaseDate": "01/7/2021",
       "genre": "Action,horror",
       "trailerUrl": "https://www.youtube.com/watch?v=xOrXpK-rUaI",
       "poster":"https://m.media-amazon.com/images/M/MV5BN2MwZWU4MGEtMGNiNi00MDE3LWFjN2MtYmNiMzhkMjY4Njc2XkEyXkFqcGdeQXVyMTMxMzIzMDI0._V1_.jpg",
-      "country":"USA",
+      "country":"United States",
       "director": "Everardo Gout"
     },
       {
@@ -15,7 +51,7 @@
       "genre": "Animation,adventure,comedy",
       "trailerUrl": "https://www.youtube.com/watch?v=0hgHY9k-44U",
       "poster":"https://i0.wp.com/itc.ua/wp-content/uploads/2021/04/luca.jpg?fit=1200%2C1500&quality=100&strip=all&ssl=1",
-      "country":"USA",
+      "country":"United States",
       "director": "Enrico Casarosa"
     },
     {
