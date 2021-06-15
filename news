@@ -1,5 +1,23 @@
 {
   "news": [
+   {
+      "title": "Resident Evil: Infinite Darkness",
+      "releaseDate": "8/7/2021",
+      "genre": "Action,horror",
+      "trailerUrl": "https://www.youtube.com/watch?v=P-js-Eww1OI",
+      "poster":"https://static.wikia.nocookie.net/netflix/images/c/cd/Resident_evil_infinite_darkness_ver3_xxlg.jpg/revision/latest/top-crop/width/360/height/450?cb=20210519154022",
+      "country":"Japanise",
+      "director": "Eiichirō Hasumi"
+    },
+     {
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "releaseDate": "3/7/2021",
+      "genre": "Horror",
+      "trailerUrl": "https://www.youtube.com/watch?v=h9Q4zZS2v1k",
+      "poster":"https://i.pinimg.com/originals/75/ff/e6/75ffe6bd528b12820feac82904dc7ab0.jpg",
+      "country":"United States",
+      "director": "Michael Chaves"
+    },
     {
       "title": "Rick and Morty season 5",
       "releaseDate": "20/6/2021",
