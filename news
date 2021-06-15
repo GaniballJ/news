@@ -6,7 +6,8 @@
       "genre": "Action,horror",
       "trailerUrl": "https://www.youtube.com/watch?v=xOrXpK-rUaI",
       "poster":"https://m.media-amazon.com/images/M/MV5BN2MwZWU4MGEtMGNiNi00MDE3LWFjN2MtYmNiMzhkMjY4Njc2XkEyXkFqcGdeQXVyMTMxMzIzMDI0._V1_.jpg",
-      "sendDate": "14/06/2021 at 6:22"
+      "country":"USA",
+      "director": "Everardo Gout"
     },
       {
       "title": "Luca",
@@ -14,7 +15,8 @@
       "genre": "Animation,adventure,comedy",
       "trailerUrl": "https://www.youtube.com/watch?v=0hgHY9k-44U",
       "poster":"https://i0.wp.com/itc.ua/wp-content/uploads/2021/04/luca.jpg?fit=1200%2C1500&quality=100&strip=all&ssl=1",
-      "sendDate": "14/06/2021 at 6:16"
+      "country":"USA",
+      "director": "Enrico Casarosa"
     },
     {
       "title": "Trese",
@@ -22,7 +24,8 @@
       "genre": "Anime,action",
       "trailerUrl": "https://www.youtube.com/watch?v=3IhCjxVjM-A",
       "poster": "https://live.staticflickr.com/65535/51224468318_fc34a7b0c8_c.jpg",
-      "sendDate": "5/6/2021 at 12:00"
+      "country": "Philippines",
+      "director": "Jay Oliva"
     }
   ]
 }
