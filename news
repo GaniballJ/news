@@ -1,14 +1,5 @@
 {
   "news": [
-  {
-      "title": "Resident Evil: Infinite Darkness111",
-      "releaseDate": "8/7/2021",
-      "genre": "Action,horror",
-      "poster":"https://www.kino-teatr.ru/movie/poster/145057/106725.jpg",
-      "country":"Japanise",
-      "director": "Eiichirō Hasumi",
-      "trailerIDVideo": "P-js-Eww1OI"
-    },
    {
       "title": "Resident Evil: Infinite Darkness",
       "releaseDate": "8/7/2021",
