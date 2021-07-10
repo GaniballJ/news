@@ -1,6 +1,15 @@
 {
   "news": [
    {
+      "title": "The Witcher: Nightmare of the Wolf",
+      "releaseDate": "23/8/2021",
+      "genre": "Action,anime",
+      "poster":"https://s.yimg.com/uu/api/res/1.2/5mcxc7Qp4424WW8HqsjdEA--~B/Zmk9ZmlsbDtoPTQyMjt3PTY3NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2021-07/2099cd30-e0f2-11eb-bebd-f457dbf1837b.cf.jpg",
+      "country":"Unitied States",
+      "director": "Kwang Il Han",
+      "trailerIDVideo": "nwZse2jdWHc"
+    },
+   {
       "title": "Resident Evil: Infinite Darkness",
       "releaseDate": "8/7/2021",
       "genre": "Action,horror",
